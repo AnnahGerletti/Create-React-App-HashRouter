@@ -4,4 +4,4 @@ This boilerplate helps you to set up a new project using React's starting templa
 
 # Documentation
 
-All of the documents can be found in the [`docs`](Docs) folder.
+All of the documents can be found in the [`docs`](docs) folder.
